@@ -1,0 +1,115 @@
+
+CC-BY 2.0   https://creativecommons.org/licenses/by/2.0/legalcode
+
+Graphics
+
+File name:
+Source: https://en.wikipedia.org/wiki/File:Delhimap_blank.svg
+Author: https://en.wikipedia.org/wiki/User:Deeptrivia
+License: CC-BY-SA 3.0
+
+
+Character icons created from
+
+Source: http://opengameart.org/content/weapons-4
+Author: http://opengameart.org/users/sogomn
+License: CC0
+
+and
+
+Sources: http://opengameart.org/content/pixel-people http://opengameart.org/content/pixel-people-extras-01 http://opengameart.org/content/pixel-people-extras-2
+Author: http://opengameart.org/users/tokyogeisha
+License: CC0
+
+
+
+
+
+File name: gas-can.png
+Source: https://commons.wikimedia.org/wiki/File:GasolineContainer.JPG
+Author: https://commons.wikimedia.org/wiki/User:WhisperToMe
+License: Public Domain
+
+
+
+File name: meds.png
+Source: https://commons.wikimedia.org/wiki/File:Pill_Bottle_of_Assorted_Pills.JPG
+Author: 
+License: CC-BY-SA 3.0
+
+File name: toiletries.png
+Source: https://commons.wikimedia.org/wiki/File:Toiletpaperwhitebg.jpg
+Author: https://commons.wikimedia.org/wiki/User:Miaow_Miaow
+License: CC-BY-SA 3.0
+
+
+
+File name: games.png
+Source: https://commons.wikimedia.org/wiki/File:UNO_original.JPG
+Author: MW
+License: CC-BY-SA 3.0
+
+File name:
+Source: http://opengameart.org/content/simple-ui
+Author: 
+License: CC_BY 3.0
+
+File name: rifle.ogg, machinegun.ogg
+Source: http://opengameart.org/content/sound-effects-sfx007
+Author: Jesús Lastra http://opengameart.org/users/jalastram
+License: CC-BY 3.0
+
+File name:
+Source: http://opengameart.org/content/equipment-clicks-iii
+Author: LFA (www.lfa.com) http://opengameart.org/users/lfa
+License: CC0
+
+File name: pistol.ogg
+Source: http://opengameart.org/content/gunshot-sounds
+Copyright (c) 2009 Vincent Sevedge
+License: CC-BY 3.0
+
+File name: negative.ogg, click.ogg
+Source: http://opengameart.org/content/gui-sound-effects
+Author: http://opengameart.org/users/lokif
+License: CC0
+
+File name: food.png
+Source: https://commons.wikimedia.org/wiki/File:Beef_stew.jpg
+Author: https://www.flickr.com/photos/81648904@N00
+License: CC-BY 2.0
+
+File name: construction.ogg
+Source: http://opengameart.org/users/bart
+Author: http://opengameart.org/content/68-workshop-sounds
+License: CC0
+
+File name: grey-land.ogg
+Source: http://opengameart.org/content/post-apocalypse-more-music-inside
+Author: http://opengameart.org/users/alexandr-zhelanov
+License: 
+
+File name: undead-cyborg.ogg
+Source: http://opengameart.org/content/undead-cyborg
+Author: Alexandr Zhelanov https://soundcloud.com/alexandr-zhelanov http://opengameart.org/users/alexandr-zhelanov
+License: CC-BY 3.0
+
+File name: ammo.png
+Source: https://commons.wikimedia.org/wiki/File:Cop_Killer_ammo.png
+Author: WetWork338
+License: CC-BY-SA 3.0
+
+File name: owl_sound.ogg
+Source: https://www.freesound.org/people/williew705/sounds/206009/
+Author:
+License: CC0
+
+File name:
+Source:
+Author:
+License:
+
+File name:
+Source:
+Author:
+License:
