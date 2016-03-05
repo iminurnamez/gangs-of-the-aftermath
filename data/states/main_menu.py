@@ -35,14 +35,22 @@ class MainMenu(tools._State):
             Button((left, top), self.buttons, idle_image=idle, hover_image=hover, call=call)
             top += 50
 
+    def show_msg(self):
+        label = Label("Loading City", {"center": prepare.SCREEN_RECT.center}, font_size=64, text_color="gray20")
+        surf = pg.display.get_surface()
+        surf.fill(pg.Color("gray60"))
+        label.draw(surf)
+        pg.display.update()
+        
     def new_game(self, *args):
+        self.show_msg()
         self.persist["city"] = City(HOOD_INFO, GANGS)
         self.persist["player"] = Player(self.persist["city"], PLAYER_DEFAULT)
         self.done  = True
         self.next = "CITYMAP"
 
     def load_game(self, *args):
-
+        self.show_msg()
         hood_info = self.load_hoods()
         gang_info = self.load_gangs()
         self.persist["city"] = City(hood_info, gang_info)
