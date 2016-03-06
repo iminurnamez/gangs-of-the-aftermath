@@ -1,7 +1,7 @@
 # Gangs of the Aftermath
-Pyweek entry
+Entry for Pyweek 21
 
-Requires python and pygame
+Requires python and pygame to play
 
 Run run_game.py to launch
 
